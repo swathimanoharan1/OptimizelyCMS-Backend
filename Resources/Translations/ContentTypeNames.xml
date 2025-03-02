@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+	<language name="English" id="en">
+		<contenttypes>
+			<!--Blocks-->
+			<pdfblock>
+				<name>PDF Block</name>
+				<description>PDF Block to display PDF files</description>
+			</pdfblock>
+			<!--Pages-->
+			<homepage>
+				<name>Home Page</name>
+				<description>Used to create home page for the site</description>
+			</homepage>
+		</contenttypes>
+	</language>
+</languages>

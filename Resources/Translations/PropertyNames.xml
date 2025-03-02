@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+	<language name="English" id="en">
+		<contenttypes>
+			<!--Blocks-->
+			<pdfblock>
+				<properties>
+					<title>
+						<caption>Title</caption>
+					</title>
+					<description>
+						<caption>Description</caption>
+					</description>
+					<description>
+						<caption>Description11</caption>
+					</description>
+				</properties>
+			</pdfblock>
+			<!--Pages-->
+			<homepage>
+				<properties>
+					<title>
+						<caption>Title</caption>
+					</title>
+					<description>
+						<caption>Description</caption>
+					</description>
+				</properties>
+			</homepage>
+		</contenttypes>
+	</language>
+</languages>
